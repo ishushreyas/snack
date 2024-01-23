@@ -1,0 +1,19 @@
+.snackbar{
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  background-color: #555;
+  color: #fff;
+  margin: 12px;
+  padding: 12px;
+  border-radius: 8px;
+}
+.snackbar p{
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins';
+}
+.snackbar span,.snackbar p{
+  margin: 0px;
+  margin-left: 12px;
+}
